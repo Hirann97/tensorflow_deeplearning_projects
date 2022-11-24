@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  2 01:09:29 2022
 
-@author: ASUS
+@author: hiran
 """
 
 ### Storing them here so they're easily accessible.
