@@ -18,7 +18,7 @@ def load_and_prep_image(filename, img_shape=224, scale=True):
   Parameters
   ----------
   filename (str): string filename of target image
-  img_shape (int): size to resize target image to, default 22
+  img_shape (int): size to resize target image to, default 224
   scale (bool): whether to scale pixel values to range(0, 1), default True
   """
   # Read in the image
