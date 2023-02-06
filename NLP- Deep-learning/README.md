@@ -1,5 +1,6 @@
 In this project i'm trying to replicate the deep learning model behind the 2017 paper link text with its 10% of data. The number of RCT papers released is continuing to increase, those without structured abstracts can be hard to read and in turn slow down researchers moving through the literature,so we are creating an NLP model to classify abstract sentences into the role they play (e.g. objective, methods, results, etc) to enable researchers to skim through the literature and dive deeper when necessary.
-.
+
+
 1.Model-0: Baseline Model
 
 2.Model-1: Conv1D Model
